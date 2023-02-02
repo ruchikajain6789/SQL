@@ -1,0 +1,2 @@
+# SQL
+Swiggy Data case
